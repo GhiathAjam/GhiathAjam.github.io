@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<link rel="stylesheet" href="https://embed.calculoid.com/styles/main.css" /><script src="https://embed.calculoid.com/scripts/combined.min.js"></script><div ng-app="calculoid" ng-controller="CalculoidMainCtrl" ng-init="init({calcId:72947,apiKey:'5db330371f6c2'})" ng-include="load()"></div>
 </body>
 </html>
